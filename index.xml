@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MobliMic.com</title>
+    <link>https://moblimic.com/</link>
+    <description>Recent content on MobliMic.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 21 May 2018 13:43:11 +0100</lastBuildDate>
+    
+	<atom:link href="https://moblimic.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://moblimic.com/about/</link>
+      <pubDate>Mon, 21 May 2018 13:43:11 +0100</pubDate>
+      
+      <guid>https://moblimic.com/about/</guid>
+      <description>A bit about Mic I&amp;rsquo;ve been working as a web developer for about 5-6 years now. I started as a PHP develop straight out of college working on a large legacy codebase for a company working in facilities management. After this I decided to focus on front end development finding a focus more in the way of javascript development. More recently I have been expanding my horizons into learning golang.</description>
+    </item>
+    
+  </channel>
+</rss>
