@@ -6,9 +6,28 @@
     <description>Recent content in Tags on MobliMic.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Sat, 26 May 2018 17:21:57 +0100</lastBuildDate>
     
 	<atom:link href="https://moblimic.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://moblimic.com/tags/blogging/</link>
+      <pubDate>Sat, 26 May 2018 17:21:57 +0100</pubDate>
+      
+      <guid>https://moblimic.com/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://moblimic.com/tags/random/</link>
+      <pubDate>Sat, 26 May 2018 17:21:57 +0100</pubDate>
+      
+      <guid>https://moblimic.com/tags/random/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
