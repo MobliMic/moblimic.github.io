@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://moblimic.com/posts/weekly-resource-1/</loc>
+    <lastmod>2018-05-28T21:50:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://moblimic.com/posts/what-doing/</loc>
     <lastmod>2018-05-26T17:21:57+01:00</lastmod>
   </url>
@@ -25,19 +30,31 @@
   
   <url>
     <loc>https://moblimic.com/</loc>
-    <lastmod>2018-05-26T17:21:57+01:00</lastmod>
+    <lastmod>2018-05-28T21:50:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://moblimic.com/posts/</loc>
-    <lastmod>2018-05-26T17:21:57+01:00</lastmod>
+    <lastmod>2018-05-28T21:50:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://moblimic.com/tags/random/</loc>
     <lastmod>2018-05-26T17:21:57+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moblimic.com/tags/regular-posts/</loc>
+    <lastmod>2018-05-28T21:50:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moblimic.com/tags/resources/</loc>
+    <lastmod>2018-05-28T21:50:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
