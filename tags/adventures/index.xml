@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adventures on MobliMic.com</title>
+    <link>https://moblimic.com/tags/adventures/</link>
+    <description>Recent content in Adventures on MobliMic.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jun 2018 22:17:26 +0100</lastBuildDate>
+    
+	<atom:link href="https://moblimic.com/tags/adventures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adventures in Go: CLI Fibonacci</title>
+      <link>https://moblimic.com/blog/adventures-in-go-1/</link>
+      <pubDate>Wed, 20 Jun 2018 22:17:26 +0100</pubDate>
+      
+      <guid>https://moblimic.com/blog/adventures-in-go-1/</guid>
+      <description>So my &amp;lsquo;first&amp;rsquo; (It&amp;rsquo;s not really my first) adventure in Go I thought I&amp;rsquo;d attempt to make some sort of tool to generate a Fibonacci sequence. The idea is the if I call the program it will give me 10 numbers in the sequence or I can pass it a value and have it return that count of numbers.
+It feels sort of overkill but I created a function to accept two ints, add them together, and then return the result.</description>
+    </item>
+    
+  </channel>
+</rss>
