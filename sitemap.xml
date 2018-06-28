@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://moblimic.com/blog/weekly-resource-3/</loc>
+    <lastmod>2018-06-27T12:45:51+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://moblimic.com/blog/adventures-in-go-1/</loc>
     <lastmod>2018-06-20T22:17:26+01:00</lastmod>
   </url>
@@ -41,7 +46,7 @@
   
   <url>
     <loc>https://moblimic.com/blog/</loc>
-    <lastmod>2018-06-20T22:17:26+01:00</lastmod>
+    <lastmod>2018-06-27T12:45:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,7 +63,7 @@
   
   <url>
     <loc>https://moblimic.com/</loc>
-    <lastmod>2018-06-20T22:17:26+01:00</lastmod>
+    <lastmod>2018-06-27T12:45:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,13 +75,13 @@
   
   <url>
     <loc>https://moblimic.com/tags/regular-posts/</loc>
-    <lastmod>2018-06-20T22:17:26+01:00</lastmod>
+    <lastmod>2018-06-27T12:45:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://moblimic.com/tags/resources/</loc>
-    <lastmod>2018-06-08T17:42:50+01:00</lastmod>
+    <lastmod>2018-06-27T12:45:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,7 +93,7 @@
   
   <url>
     <loc>https://moblimic.com/tags/weekly-resource/</loc>
-    <lastmod>2018-06-08T17:42:50+01:00</lastmod>
+    <lastmod>2018-06-27T12:45:51+01:00</lastmod>
     <priority>0</priority>
   </url>
   
